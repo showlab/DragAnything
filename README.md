@@ -81,6 +81,20 @@
   <td><img src="./assets/image65111.gif" width="177" height="100"></td>              
   <td><img src="./assets/image6611.gif" width="177" height="100"></td>
 </tr>
+<tr>
+  <td style="text-align:center;"><b>DragNUWA</b></td>
+  <td><img src="./assets/1709662293661.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image77.gif" width="177" height="100"></td>              
+  <td><img src="./assets/image76.gif" width="177" height="100"></td>
+</tr>
+<tr>
+  <td style="text-align:center;"><b>Ours</b></td>
+  <td><img src="./assets/1709662429867.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image75.gif" width="177" height="100"></td>              
+  <td><img src="./assets/image74.gif" width="177" height="100"></td>
+</tr>
+
+
 
 </table>
 
