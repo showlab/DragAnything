@@ -225,6 +225,24 @@ We introduce DragAnything, which utilizes a entity representation to achieve mot
   <td><img src="./assets/image285.gif" width="177" height="100"></td>
 </tr>
 <tr>
+  <td><img src="./assets/1709666205795.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image286.gif" width="177" height="100"></td>
+  <td><img src="./assets/image288.gif" width="177" height="100"></td>              
+  <td><img src="./assets/image287.gif" width="177" height="100"></td>
+</tr>
+<tr>
+  <td><img src="./assets/1709666401284.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image289.gif" width="177" height="100"></td>
+  <td><img src="./assets/image290.gif" width="177" height="100"></td>              
+  <td><img src="./assets/image291.gif" width="177" height="100"></td>
+</tr>
+<tr>
+  <td><img src="./assets/1709666772216.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image294.gif" width="177" height="100"></td>
+  <td><img src="./assets/image293.gif" width="177" height="100"></td>              
+  <td><img src="./assets/image292.gif" width="177" height="100"></td>
+</tr>
+<tr>
   <td style="text-align:center;" colspan="4"><b>(d) Motion Control for Camera Motion
 </b></td>
 </tr>
