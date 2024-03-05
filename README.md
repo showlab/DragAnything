@@ -185,7 +185,7 @@ We introduce DragAnything, which utilizes a entity representation to achieve mot
   <td><img src="./assets/image276.gif" width="177" height="100"></td>
 </tr>
 <tr>
-  <td style="text-align:center;" colspan="4"><b>Motion Control for Foreground</b></td>
+  <td style="text-align:center;" colspan="4"><b>(a) Motion Control for Foreground</b></td>
 </tr>
 <tr>
   <td><img src="./assets/1709664593048.jpg" width="177" height="100"></td>
@@ -194,7 +194,39 @@ We introduce DragAnything, which utilizes a entity representation to achieve mot
   <td><img src="./assets/image269.gif" width="177" height="100"></td>
 </tr>
 <tr>
-  <td style="text-align:center;" colspan="4"><b>Motion Control for Background</b></td>
+  <td><img src="./assets/1709664834397.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image271.gif" width="177" height="100"></td>
+  <td><img src="./assets/image271 (1).gif" width="177" height="100"></td>              
+  <td><img src="./assets/image272.gif" width="177" height="100"></td>
+</tr>
+<tr>
+  <td style="text-align:center;" colspan="4"><b>(b) Motion Control for Background</b></td>
+</tr>
+<tr>
+  <td><img src="./assets/1709665073460.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image279.gif" width="177" height="100"></td>
+  <td><img src="./assets/image279 (1).gif" width="177" height="100"></td>              
+  <td><img src="./assets/image277.gif" width="177" height="100"></td>
+</tr>
+<tr>
+  <td><img src="./assets/1709665252573.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image282.gif" width="177" height="100"></td>
+  <td><img src="./assets/image282 (1).gif" width="177" height="100"></td>              
+  <td><img src="./assets/image281.gif" width="177" height="100"></td>
+</tr>
+<tr>
+  <td style="text-align:center;" colspan="4"><b>(c) Simultaneous Motion Control for Foreground  and Background
+</b></td>
+</tr>
+<tr>
+  <td><img src="./assets/1709665505339.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image283.gif" width="177" height="100"></td>
+  <td><img src="./assets/image283 (1).gif" width="177" height="100"></td>              
+  <td><img src="./assets/image285.gif" width="177" height="100"></td>
+</tr>
+<tr>
+  <td style="text-align:center;" colspan="4"><b>(d) Motion Control for Camera Motion
+</b></td>
 </tr>
 
 </table>
