@@ -61,6 +61,26 @@
 </table>
 
 
+## Comparison with DragNUWA
+<table class="center">
+<tr>
+      <td style="text-align:center;"><b>Model</b></td>
+  <td style="text-align:center;"><b>Input Image and Drag</b></td>
+    <td style="text-align:center;"><b>Generated Video</b></td>
+      <td style="text-align:center;"><b>Visualization for Pixel Motion</b></td>
+</tr>
+<tr>
+  <td style="text-align:center;"><b>DragNUWA</b></td>
+  <td><img src="./assets/1709661872632.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image63111.gif" width="177" height="100"></td>              
+  <td><img src="./assets/image6411.gif" width="177" height="100"></td>
+</tr>
+
+
+</table>
+
+
+
 ## More Demo
 
 
@@ -110,6 +130,10 @@
 
 
 </table>
+
+
+##  Various Motion Control 
+
 
 ## 🔧 Dependencies and Dataset Prepare
 
