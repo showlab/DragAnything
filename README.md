@@ -205,13 +205,13 @@ We introduce DragAnything, which utilizes a entity representation to achieve mot
 <tr>
   <td><img src="./assets/1709665073460.jpg" width="177" height="100"></td>
   <td><img src="./assets/image279.gif" width="177" height="100"></td>
-  <td><img src="./assets/image279 (1).gif" width="177" height="100"></td>              
+  <td><img src="./assets/image278.gif" width="177" height="100"></td>              
   <td><img src="./assets/image277.gif" width="177" height="100"></td>
 </tr>
 <tr>
   <td><img src="./assets/1709665252573.jpg" width="177" height="100"></td>
   <td><img src="./assets/image282.gif" width="177" height="100"></td>
-  <td><img src="./assets/image282 (1).gif" width="177" height="100"></td>              
+  <td><img src="./assets/image280.gif" width="177" height="100"></td>              
   <td><img src="./assets/image281.gif" width="177" height="100"></td>
 </tr>
 <tr>
