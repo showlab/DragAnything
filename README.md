@@ -164,7 +164,40 @@ We introduce DragAnything, which utilizes a entity representation to achieve mot
 
 
 ##  Various Motion Control 
+<table class="center">
+<tr>
+  <td style="text-align:center;"><b>Drag point with SAM</b></td>
+  <td style="text-align:center;"><b>2D Gaussian</b></td>
+    <td style="text-align:center;"><b>Generated Video</b></td>
+      <td style="text-align:center;"><b>Visualization for Pixel Motion</b></td>
+</tr>
 
+<tr>
+  <td><img src="./assets/1709663429471.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image265.gif" width="177" height="100"></td>
+  <td><img src="./assets/image265 (1).gif" width="177" height="100"></td>              
+  <td><img src="./assets/image268.gif" width="177" height="100"></td>
+</tr>
+<tr>
+  <td><img src="./assets/1709663831581.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image274.gif" width="177" height="100"></td>
+  <td><img src="./assets/image274 (1).gif" width="177" height="100"></td>              
+  <td><img src="./assets/image276.gif" width="177" height="100"></td>
+</tr>
+<tr>
+  <td style="text-align:center;" colspan="4"><b>Motion Control for Foreground</b></td>
+</tr>
+<tr>
+  <td><img src="./assets/1709664593048.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image270.gif" width="177" height="100"></td>
+  <td><img src="./assets/image270 (1).gif" width="177" height="100"></td>              
+  <td><img src="./assets/image269.gif" width="177" height="100"></td>
+</tr>
+<tr>
+  <td style="text-align:center;" colspan="4"><b>Motion Control for Background</b></td>
+</tr>
+
+</table>
 
 ## 🔧 Dependencies and Dataset Prepare
 
