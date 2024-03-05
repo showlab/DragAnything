@@ -75,7 +75,12 @@
   <td><img src="./assets/image63111.gif" width="177" height="100"></td>              
   <td><img src="./assets/image6411.gif" width="177" height="100"></td>
 </tr>
-
+<tr>
+  <td style="text-align:center;"><b>Ours</b></td>
+  <td><img src="./assets/1709662077471.jpg" width="177" height="100"></td>
+  <td><img src="./assets/image65111.gif" width="177" height="100"></td>              
+  <td><img src="./assets/image6611.gif" width="177" height="100"></td>
+</tr>
 
 </table>
 
