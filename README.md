@@ -3,8 +3,8 @@
 ### <div align="center"> DragAnything: Motion Control for Anything using Entity Representation <div> 
 
 <div align="center">
-  <a href="https://weijiawu.github.io/ParaDiffusionPage/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a> &ensp;
-  <a href="https://arxiv.org/abs/2311.14284"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
+  <a href="https://weijiawu.github.io/draganything_page/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a> &ensp;
+  <a href="https://arxiv.org/"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
 </div>
 
 <p align="center">
@@ -15,8 +15,8 @@
 
 ## :notes: **Updates**
 
-- [ ] Nov. 15, 2023. Release the train code in **three months**.
-- [x] Mar. 10, 2024. Rep initialization.
+- [ ] Mar. 12, 2024. Release the train and inference code in **one week**.
+- [x] Mar. 12, 2024. Rep initialization.
 
 
 ---
@@ -363,15 +363,8 @@ python demo.py
 
 
 ## 📖BibTeX
-    @misc{wu2023paradiffusion,
-          title={Paragraph-to-Image Generation with Information-Enriched Diffusion Model}, 
-          author={Weijia Wu, Zhuang Li, Yefei He, Mike Zheng Shou, Chunhua Shen, Lele Cheng, Yan Li, Tingting Gao, Di Zhang, Zhongyuan Wang},
-          year={2023},
-          eprint={2311.14284},
-          archivePrefix={arXiv},
-          primaryClass={cs.CV}
-    }
+    on the way.
     
 ## 🤗Acknowledgements
 - Thanks to [Diffusers](https://github.com/huggingface/diffusers) for the wonderful work and codebase.
-- Thanks to [Diffusers](https://github.com/huggingface/diffusers) for the wonderful work and codebase.
+- Thanks to [svd-temporal-controlnet](https://github.com/CiaraStrawberry/svd-temporal-controlnet) for the wonderful work and codebase.
