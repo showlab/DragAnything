@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://weijiawu.github.io/draganything_page/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a> &ensp;
-  <a href="https://arxiv.org/"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
+  <a href="https://arxiv.org/abs/2403.07420/"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
 </div>
 
 <p align="center">
@@ -363,7 +363,15 @@ python demo.py
 
 
 ## 📖BibTeX
-    on the way.
+    @misc{wu2024draganything,
+          title={DragAnything: Motion Control for Anything using Entity Representation}, 
+          author={Weijia Wu, Zhuang Li, Yuchao Gu, Rui Zhao, Yefei He, David Junhao Zhang, Mike Zheng Shou, Yan Li, Tingting Gao, Di Zhang},
+          year={2024},
+          eprint={2403.07420},
+          archivePrefix={arXiv},
+          primaryClass={cs.CV}
+    }
+    
     
 ## 🤗Acknowledgements
 - Thanks to [Diffusers](https://github.com/huggingface/diffusers) for the wonderful work and codebase.
