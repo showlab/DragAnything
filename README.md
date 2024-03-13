@@ -301,8 +301,21 @@ cd .utils/
 python vis_trajectory.py
 ```
 
+### Pretrained Model Preparation
 
-## :paintbrush: Train <!-- omit in toc -->
+We adopt the [ChilloutMix](https://civitai.com/models/6424/chilloutmix) as pretrained model, please download the diffusers version:
+
+```bash 
+mkdir -p utils/pretrained_models
+cd utils/pretrained_models
+
+# Diffusers-version ChilloutMix to utils/pretrained_models
+git-lfs clone https://huggingface.co/windwhinny/chilloutmix.git
+```
+
+
+
+## :paintbrush: Train(Awaiting release) <!-- omit in toc -->
 
 ### 1) Semantic Embedding Extraction
 
@@ -350,8 +363,9 @@ python ./ObjMC.py
 
 ## :paintbrush: Inference for single video <!-- omit in toc -->
 
+
 ```Shell
-python infer_PointNet.py
+python demo.py
 ```
 
 ### :paintbrush: Visulization of pixel motion for the generated video <!-- omit in toc -->
