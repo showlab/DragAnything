@@ -15,7 +15,8 @@
 
 ## :notes: **Updates**
 
-- [ ] Mar. 12, 2024. Release the train and inference code in **one week**.
+- [ ] Mar. 13, 2024. Release the train code in **one month**.
+- [x] Mar. 13, 2024. Release the inference code.
 - [x] Mar. 12, 2024. Rep initialization.
 
 
