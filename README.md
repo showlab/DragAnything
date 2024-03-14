@@ -303,7 +303,7 @@ python vis_trajectory.py
 
 ### Pretrained Model Preparation
 
-We adopt the [ChilloutMix](https://civitai.com/models/6424/chilloutmix) as pretrained model, please download the diffusers version:
+We adopt the [ChilloutMix](https://civitai.com/models/6424/chilloutmix) as pretrained model for extraction of entity representation, please download the diffusers version:
 
 ```bash 
 mkdir -p utils/pretrained_models
@@ -311,6 +311,15 @@ cd utils/pretrained_models
 
 # Diffusers-version ChilloutMix to utils/pretrained_models
 git-lfs clone https://huggingface.co/windwhinny/chilloutmix.git
+```
+
+And you can download our pretrained model for the controlnet:
+```bash 
+mkdir -p model_out/DragAnything
+cd model_out/DragAnything
+
+# Diffusers-version DragAnything to model_out/DragAnything
+git-lfs clone https://huggingface.co/weijiawu/DragAnything
 ```
 
 
