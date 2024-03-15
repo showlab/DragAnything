@@ -400,3 +400,6 @@ python demo.py
 ## 🤗Acknowledgements
 - Thanks to [Diffusers](https://github.com/huggingface/diffusers) for the wonderful work and codebase.
 - Thanks to [svd-temporal-controlnet](https://github.com/CiaraStrawberry/svd-temporal-controlnet) for the wonderful work and codebase.
+- Thanks to chaojie for building [ComfyUI-DragAnything](https://github.com/chaojie/ComfyUI-DragAnything).
+
+
