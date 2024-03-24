@@ -15,7 +15,8 @@
 
 ## :notes: **Updates**
 
-- [ ] Mar. 13, 2024. Release the train code in **one month**.
+- [ ] Mar. 13, 2024. Release the train code in **three month**.
+- [x] Mar. 24, 2024. Support interactive demo with gradio.
 - [x] Mar. 13, 2024. Release the inference code.
 - [x] Mar. 12, 2024. Rep initialization.
 
@@ -376,6 +377,17 @@ python ./ObjMC.py
 ```Shell
 python demo.py
 ```
+
+or run the interactive inference with gradio (install the ```gradio==3.50.2```).
+```Shell
+cd ./script
+```
+download the weight of ```sam_vit_h_4b8939.pth``` from [SAM](https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#model-checkpoints)
+
+```Shell
+python gradio_run.py
+```
+
 
 ### :paintbrush: Visulization of pixel motion for the generated video <!-- omit in toc -->
 
