@@ -6,18 +6,10 @@ from tqdm import tqdm
 import os 
 from PIL import Image
 
-# image_path = "./VIPSeg_Video_Generation_Test/imgs/443_hPrsXtTg3lM"
-# trajectory = "./VIPSeg_Video_Generation_Test/trajectory_CoTracker/443_hPrsXtTg3lM.json"
-save_image = "./VIPSeg_Video_Generation_Test/vis"
 
-
-# image_path_root = "/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/VIPSeg/VIPSeg_Video_Generation_Test/imgs"
-# trajectory_root = "/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/VIPSeg/VIPSeg_Video_Generation_Test/test_traject"
-# save_image_root = "/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/VIPSeg/VIPSeg_Video_Generation_Test/trajectory_vis"
-
-image_path_root = "/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/VIPSeg/VIPSeg_Video_Generation_Test/Prediction_Model/DragAnything14frames_OriginalSize"
-trajectory_root = "/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/VIPSeg/VIPSeg_Video_Generation_Test/Prediction_Model/trajectory_1024_CoTracker_DragAnything14frames_OriginalSize1"
-save_image_root = "/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/VIPSeg/VIPSeg_Video_Generation_Test/trajectory_vis"
+image_path_root = "./data/VIPSeg/frame"
+trajectory_root = "./data/VIPSeg/trajectories"
+save_image_root = "./data/VIPSeg/trajectory_vis"
 
 
 

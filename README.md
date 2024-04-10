@@ -263,7 +263,7 @@ cd DragAnything
 
 conda create -n DragAnything python=3.8
 conda activate DragAnything
-pip install -r environment.txt
+pip install -r requirements.txt
 ```
 
 ### Dataset Prepare
@@ -347,6 +347,8 @@ sh ./script/train_youtube_vos.sh
 ```
 
 ## :paintbrush: Evaluation <!-- omit in toc -->
+
+
 
 ### Evaluation for [FID](https://github.com/mseitzer/pytorch-fid)
 

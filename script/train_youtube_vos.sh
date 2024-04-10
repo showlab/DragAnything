@@ -3,10 +3,9 @@
 CUDA_VISIBLE_DEVICES=1,2,3,4,5,6,7 accelerate launch train_PointNet.py \
  --pretrained_model_name_or_path="stabilityai/stable-video-diffusion-img2vid" \
  --output_dir="model_out/ShowAnything-2024.1.23-Gaussian-SD1.5-weightloss_20frames" \
- --csv_path="path-to-your-csv" \
- --video_folder="/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/ref-youtube-vos/train/JPEGImages" \
- --depth_folder="/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/ref-youtube-vos/train/Annotations" \
- --motion_folder="/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/ref-youtube-vos/train/embedding_SD_nobackground_512" \
+ --video_folder="./data/ref-youtube-vos/train/JPEGImages" \
+ --depth_folder="./data/ref-youtube-vos/train/Annotations" \
+ --motion_folder="./data/ref-youtube-vos/train/embedding_SD_nobackground_512" \
  --validation_image_folder="./validation_demo/cce03c2a9b_Image" \
  --validation_control_folder="./validation_demo/cce03c2a9b_Mask" \
  --width=512 \

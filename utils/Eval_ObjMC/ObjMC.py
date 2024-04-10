@@ -9,10 +9,8 @@ def euclidean_distance(point1, point2):
     distance = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
     return distance
 
-gt_json = "/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/VIPSeg/VIPSeg_Video_Generation_Test/test_traject"
-prediction_json = "/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/VIPSeg/VIPSeg_Video_Generation_Test/Prediction_Model/trajectory_1024_CoTracker_DragAnything14frames_OriginalSize1"
-
-# prediction_json = "/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/VIPSeg/VIPSeg_Video_Generation_Test/Prediction_Model/trajectory_CoTracker_DragNUWA_14frames_OriginalSize"
+gt_json = "./data/VIPSeg_Test/trajectories"
+prediction_json = "./Output/prediction_trajectories"
 
 gt_list = os.listdir(gt_json)
 pred_list = os.listdir(prediction_json)

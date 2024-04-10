@@ -4,10 +4,9 @@
 CUDA_VISIBLE_DEVICES=1,2,3,4,5,6,7 accelerate launch train_DragAnything.py \
  --pretrained_model_name_or_path="stabilityai/stable-video-diffusion-img2vid" \
  --output_dir="model_out/ShowAnything-2024.3.4-Gaussian-SD1.5_25frames_VIPSeg_Size576_320" \
- --csv_path="path-to-your-csv" \
- --video_folder="/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/VIPSeg/imgs" \
- --mask_folder="/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/VIPSeg/panomasks" \
- --feature_folder="/mmu-ocr/weijiawu/MovieDiffusion/ShowAnything/data/VIPSeg/embedding_SD_512_once" \
+ --video_folder="./data/VIPSeg/imgs" \
+ --mask_folder="./data/VIPSeg/panomasks" \
+ --feature_folder="./data/VIPSeg/embedding_SD_512_once" \
  --validation_image_folder="./validation_demo/cce03c2a9b_Image" \
  --validation_control_folder="./validation_demo/cce03c2a9b_Mask" \
  --width=576 \
