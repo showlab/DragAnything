@@ -16,6 +16,7 @@
 ## :notes: **Updates**
 
 <!--- [ ] Mar. 13, 2024. Release the train code in **three month**.-->
+- [x] July. 1, 2024. DragAnything has been accepted by ECCV 2024!
 - [x] Mar. 24, 2024. Support interactive demo with gradio.
 - [x] Mar. 13, 2024. Release the inference code.
 - [x] Mar. 12, 2024. Rep initialization.
